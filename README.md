@@ -5,8 +5,8 @@
 <ul>
   <li> Scan for devices in the network </li>
  <li> Full scan with complete TCP connection </li>
- <li> Half scan </li>
- <li> XMAS scan </li>
+ <li> Half scan with partial tcp connection</li>
+ <li> XMAS scan with FIN, URG, PUSH (Since Microsoft has it's own RFC this will not work on Microsoft. It only works on RFC 193 Compliant systems.)</li>
 </ul>
 
 <h2> USAGE </h2>
