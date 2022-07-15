@@ -1,4 +1,4 @@
-<h1> nmap-cli </h1>
+<h1> nmap-cli for easy usage </h1>
 <h1> CLI for NMAP written in Bash Script </h1>
 
 <h2>Functionalities:</h2> 
