@@ -1,7 +1,7 @@
 <h1> nmap-cli </h1>
-<h3> CLI for NMAP written in Bash Script </h3>
+<h1> CLI for NMAP written in Bash Script </h1>
 
-<h4>Functionalities:</h4> 
+<h2>Functionalities:</h2> 
 <ul>
   <li> Scan for devices in the network </li>
  <li> Full scan with complete TCP connection </li>
