@@ -1,12 +1,16 @@
-<h1> nmap-cli </h1>
-<h3> CLI for NMAP written in Bash Script </h3>
+<h1> nmap-cli for easy usage </h1>
+<h1> CLI for NMAP written in Bash Script </h1>
 
-<h4>Functionalities:</h4> 
+<h2>Functionalities:</h2> 
 <ul>
   <li> Scan for devices in the network </li>
  <li> Full scan with complete TCP connection </li>
- <li> Half scan </li>
- <li> XMAS scan </li>
+ <li> Half scan with partial tcp connection</li>
+ <li> XMAS scan with FIN, URG, PUSH (Since Microsoft has it's own RFC this will not work on Windows. It only works on RFC 793 Compliant systems.)</li>
 </ul>
+
+<h2> USAGE </h2>
+<code> ./nmap.sh </code> 
+<p> You might need to chmod the file if necessary </p>
 
 <h2>New Functionalities being added soon.</h2> 
