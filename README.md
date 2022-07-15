@@ -9,4 +9,4 @@
  <li> XMAS scan </li>
 </ul>
 
-#New Functionalities being added soon. 
+<h2>New Functionalities being added soon.</h2> 
