@@ -9,4 +9,8 @@
  <li> XMAS scan </li>
 </ul>
 
+<h2> USAGE </h2>
+<code> ./nmap.sh </code> 
+<p> You might need to chmod the file if necessary </p>
+
 <h2>New Functionalities being added soon.</h2> 
